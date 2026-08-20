@@ -1,20 +1,13 @@
-### 1. Title
 
 # 🛡️ Cisco Wireless Network Security Lab
 
-### 2. Description
-
 **A hands-on Cisco Packet Tracer project demonstrating wireless network security, MAC address filtering, routing, DNS configuration, and web server connectivity.**
-
-### 3. Project Overview
 
 ## 📌 Project Overview
 
 This project simulates a small enterprise network using **Cisco Packet Tracer**.
 
 The network includes wireless and wired devices connected through a **WLAN router, edge router, and core switch**, with dedicated DNS and web servers.
-
-### 4. Objectives
 
 ## 🎯 Objectives
 
@@ -29,8 +22,6 @@ The network includes wireless and wired devices connected through a **WLAN route
 * 🌍 Configure an internal web server
 * 🧪 Test end-to-end connectivity
 
-### 5. Network Components
-
 ## 🖧 Network Components
 
 | Device                         | Purpose                    |
@@ -44,8 +35,6 @@ The network includes wireless and wired devices connected through a **WLAN route
 | 👨‍💻 Admin PC                 | Network administration     |
 | 💻 Laptops                     | Wireless clients           |
 
-### 6. Wireless Security
-
 ## 🔐 Wireless Security
 
 The wireless network uses:
@@ -57,8 +46,6 @@ The wireless network uses:
 
 MAC filtering is used to prevent unauthorized devices from connecting to the wireless network.
 
-### 7. DNS
-
 ## 🌐 DNS Configuration
 
 The DNS server is configured with the following record:
@@ -69,8 +56,6 @@ The DNS server is configured with the following record:
 
 This allows users to access the company web server using a domain name instead of directly entering its IP address.
 
-### 8. Web Server
-
 ## 🌍 Web Server
 
 The Company Web Server uses:
@@ -80,8 +65,6 @@ The Company Web Server uses:
 **Website:** `http://www.company.com`
 
 HTTP service is enabled on the server.
-
-### 9. Testing
 
 ## 🧪 Connectivity Testing
 
@@ -100,8 +83,6 @@ Results:
 * ✅ DNS name resolution
 * ✅ Web server reachability
 
-### 10. Technologies
-
 ## 🛠️ Technologies Used
 
 * 🖥️ Cisco Packet Tracer
@@ -114,8 +95,6 @@ Results:
 * 🗂️ DNS
 * 🌍 HTTP
 * 🧪 Network Troubleshooting
-
-### 11. Learning Outcomes
 
 ## 📚 Learning Outcomes
 
@@ -130,16 +109,12 @@ Through this project, I gained practical experience in:
 * 🌍 Web server deployment
 * 🔀 Network routing
 * 🧪 Troubleshooting and connectivity testing
-
-### 12. Project File
-
+  
 ## 📁 Project File
 
 The Cisco Packet Tracer project file included in this repository is:
 
 `Cisco-Wireless-Network-Security-Lab.pkt`
-
-### 13. Author
 
 ## 👨‍💻 Author
 
