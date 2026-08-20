@@ -120,7 +120,6 @@ The Cisco Packet Tracer project file included in this repository is:
 
 **Akshay M**
 
-Mechanical Engineering Student | Cybersecurity & Networking Enthusiast
 
 ---
 
