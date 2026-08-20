@@ -1,6 +1,6 @@
 ### 1. Title
 
-**# 🛡️ Cisco Wireless Network Security Lab**
+# 🛡️ Cisco Wireless Network Security Lab
 
 ### 2. Description
 
@@ -8,7 +8,7 @@
 
 ### 3. Project Overview
 
-**## 📌 Project Overview**
+## 📌 Project Overview
 
 This project simulates a small enterprise network using **Cisco Packet Tracer**.
 
@@ -16,7 +16,7 @@ The network includes wireless and wired devices connected through a **WLAN route
 
 ### 4. Objectives
 
-**## 🎯 Objectives**
+## 🎯 Objectives
 
 * 🔐 Configure a secure wireless network
 * 🛡️ Implement WPA2-Personal security
@@ -31,7 +31,7 @@ The network includes wireless and wired devices connected through a **WLAN route
 
 ### 5. Network Components
 
-**## 🖧 Network Components**
+## 🖧 Network Components
 
 | Device                         | Purpose                    |
 | ------------------------------ | -------------------------- |
@@ -46,7 +46,7 @@ The network includes wireless and wired devices connected through a **WLAN route
 
 ### 6. Wireless Security
 
-**## 🔐 Wireless Security**
+## 🔐 Wireless Security
 
 The wireless network uses:
 
@@ -59,7 +59,7 @@ MAC filtering is used to prevent unauthorized devices from connecting to the wir
 
 ### 7. DNS
 
-**## 🌐 DNS Configuration**
+## 🌐 DNS Configuration
 
 The DNS server is configured with the following record:
 
@@ -71,7 +71,7 @@ This allows users to access the company web server using a domain name instead o
 
 ### 8. Web Server
 
-**## 🌍 Web Server**
+## 🌍 Web Server
 
 The Company Web Server uses:
 
@@ -83,7 +83,7 @@ HTTP service is enabled on the server.
 
 ### 9. Testing
 
-**## 🧪 Connectivity Testing**
+## 🧪 Connectivity Testing
 
 Connectivity was verified using:
 
@@ -102,7 +102,7 @@ Results:
 
 ### 10. Technologies
 
-**## 🛠️ Technologies Used**
+## 🛠️ Technologies Used
 
 * 🖥️ Cisco Packet Tracer
 * 🌐 IPv4
@@ -117,7 +117,7 @@ Results:
 
 ### 11. Learning Outcomes
 
-**## 📚 Learning Outcomes**
+## 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -133,7 +133,7 @@ Through this project, I gained practical experience in:
 
 ### 12. Project File
 
-**## 📁 Project File**
+## 📁 Project File
 
 The Cisco Packet Tracer project file included in this repository is:
 
@@ -141,7 +141,7 @@ The Cisco Packet Tracer project file included in this repository is:
 
 ### 13. Author
 
-**## 👨‍💻 Author**
+## 👨‍💻 Author
 
 **Akshay M**
 
