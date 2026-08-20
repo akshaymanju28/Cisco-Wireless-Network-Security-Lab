@@ -33,7 +33,7 @@ The network includes wireless and wired devices connected through a **WLAN route
 | 🌐 Company-Web-Server          | Hosts the company website  |
 | 💻 Employee PCs                | End-user systems           |
 | 👨‍💻 Admin PC                 | Network administration     |
-| 💻 Laptops                     | Wireless clients           |
+| 💻 Laptop                     | Wireless Unauthorized system            |
 
 ## 🔐 Wireless Security
 
